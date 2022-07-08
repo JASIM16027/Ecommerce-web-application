@@ -7,3 +7,7 @@ This is a Ecommerce project. I made this project using Django, Html, css, Bootst
 ![onlineshop2](https://user-images.githubusercontent.com/39296494/177921389-5737df17-f11b-44b0-a436-d6e15b101906.PNG)
 ![onlineshop4](https://user-images.githubusercontent.com/39296494/177921432-c0fa89b4-5c25-43d2-8c36-ca2b27908d53.PNG)
 ![onlineshp4](https://user-images.githubusercontent.com/39296494/177921505-05fe1b74-69ac-45da-acbc-d1aeef10a995.PNG)
+
+![onlineshop7](https://user-images.githubusercontent.com/39296494/177922151-9dd3825c-7d33-4454-b716-e882eef6020d.PNG)
+![onlineshop6](https://user-images.githubusercontent.com/39296494/177922230-ab454c02-a9ca-4701-8598-b78acbe667e0.PNG)
+
